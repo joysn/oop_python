@@ -1,0 +1,1 @@
+{"newkey": 5.0005, "tarfile_matched_pattern": "\\d\\d\\d\\d\\-\\d\\d\\-fiba\\.tar$", "backup_dir": "/backup/", "backup_retrieval_dir": "/backup_retrieval_dir", "read_db": "mysql_managed_db", "backup_dat_limit": 21}
