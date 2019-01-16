@@ -1,0 +1,2 @@
+2018-07-04 03:53   this is a log message
+2018-07-04 03:53   this is another log message
